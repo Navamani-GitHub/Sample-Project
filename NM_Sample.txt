@@ -1,3 +1,6 @@
 Hi, 
 I am learning git
 My name is Navamani Daniel, I am from India.
+Hi, 
+I am checking conflicts
+My name is Navamani Daniel, I am from India.
